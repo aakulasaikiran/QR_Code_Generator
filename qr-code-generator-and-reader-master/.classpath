@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

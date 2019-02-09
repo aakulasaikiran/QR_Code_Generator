@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="QR_Code_Java/src"/>
+	<classpathentry kind="src" path="WEB-INF/classes"/>
+	<classpathentry kind="lib" path="core-2.2.jar"/>
+	<classpathentry kind="lib" path="javase-2.2.jar"/>
+	<classpathentry kind="lib" path="QR_Code_Java/lib/qrgen-1.0.jar"/>
+	<classpathentry kind="lib" path="QR_Code_Java/lib/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="QR_Code_Java/lib/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/qrgen-1.0.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/tomcat/lib/tomcat-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="F:/Desktop/Qr_Code_Generatoer/Example1/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="output" path="QR_Code_Java/bin"/>
+</classpath>
